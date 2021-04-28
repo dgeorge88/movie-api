@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "606efe8dc1600b33e4ef4326",
+    "full_name": "Tom Cruise",
+    "biography": "Thomas Cruise Mapother IV is an American actor and producer. He has received various accolades for his work, including three Golden Globe Awards and three nominations for Academy Awards. He is one of the highest-paid actors in the world",
+    "picture_path": "",
+    "date_of_birth": "1962-03-07",
+    "website": "https://www.tomcruise.com"
+  },
+  {
+    "_id": "606efe8dc1600b33e4ef4327",
+    "full_name": "Sigourney Weaver",
+    "biography": "Susan Alexandra 'Sigourney' Weaver is an American actress. Weaver is considered to be a pioneer of action heroines in science fiction films",
+    "picture_path": "",
+    "date_of_birth": "1949-08-10",
+    "website": ""
+  }
+]
